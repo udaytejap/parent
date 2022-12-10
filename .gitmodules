@@ -1,0 +1,3 @@
+[submodule "child_submodule"]
+	path = child_submodule
+	url = https://github.com/udaytejap/child_submodule.git
